@@ -12,3 +12,5 @@ Lab3_Submission.ipynb - gradient descent lab 3 submission, 9/21/2020
 Lab4_Submission.ipynb - tf and keras lab 4 submission, 10/6/2020
 
 Lab5_Submission.ipynb - keras lab 5 submission, 10/12/2020
+
+Lab6_Submission.ipynb - autoencoders lab 6 submission, 10/26/2020
