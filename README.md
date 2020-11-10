@@ -16,3 +16,5 @@ Lab5_Submission.ipynb - keras lab 5 submission, 10/12/2020
 590_Hw2.ipynb - homework 2 submission, 10/26/2020
 
 Lab6_Submission.ipynb - autoencoders lab 6 submission, 10/26/2020
+
+Lab7_Submission.ipynb - cnn lab 7 submission, 11/9/2020
