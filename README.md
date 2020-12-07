@@ -20,3 +20,5 @@ Lab6_Submission.ipynb - autoencoders lab 6 submission, 10/26/2020
 Lab7_Submission.ipynb - cnn lab 7 submission, 11/9/2020
 
 Lab8_Submission.ipynb - rnn lab 8 submission, 11/20/2020
+
+590_Hw3.ipynb - homework 1 submission, 12/7/2020
